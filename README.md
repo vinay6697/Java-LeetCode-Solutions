@@ -21,6 +21,7 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/Java/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
