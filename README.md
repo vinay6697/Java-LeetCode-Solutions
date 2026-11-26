@@ -8,6 +8,7 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/Java/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -33,4 +34,8 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
