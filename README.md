@@ -14,6 +14,7 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | [0136-single-number](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/Java/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -50,4 +51,25 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
