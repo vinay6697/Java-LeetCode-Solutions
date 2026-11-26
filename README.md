@@ -24,6 +24,7 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +98,8 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
