@@ -11,6 +11,7 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | [0033-search-in-rotated-sorted-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0136-single-number](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/Java/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -30,6 +31,7 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
