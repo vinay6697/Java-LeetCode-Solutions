@@ -22,6 +22,7 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | [0485-max-consecutive-ones](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | [0162-find-peak-element](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +91,8 @@ My LeetCode problem-solving journey using Java. Contains problem statements, exp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vinay6697/Java-LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
